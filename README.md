@@ -1,4 +1,4 @@
-# shwetank shrey
+# shwetank shrey · tank for short
 
 full-stack systems engineer who happens to be unusually comfortable down at silicon.
 
