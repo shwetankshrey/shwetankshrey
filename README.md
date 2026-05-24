@@ -1,6 +1,4 @@
-# shwetank shrey
-
-*tank for short*
+<h1>shwetank shrey<br><sub>tank for short</sub></h1>
 
 full-stack systems engineer who happens to be unusually comfortable down at silicon.
 
